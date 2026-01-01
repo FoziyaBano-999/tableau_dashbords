@@ -5,7 +5,7 @@ I am exploring interactive data visualization using Tableau. Here are some of th
 ---
 
 ## 1️⃣ Airline Analytics Dashboard ✈
-![Airline Dashboard](Tableau_Dashboards/airline_dashboard.png)
+![Airline Analytics Dashboard](airline_dashbord.png)
 
 Link: [View on Tableau Public](https://public.tableau.com/app/profile/foziya.bano/viz/new_airline_data/Dashboard1)
 
