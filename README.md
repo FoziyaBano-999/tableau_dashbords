@@ -20,7 +20,7 @@ Link: [View on Tableau Public](https://public.tableau.com/app/profile/foziya.ban
 ---
 
 ## 2️⃣ Road Accident Dashboard 🚦
-![Accident Dashboard](Tableau_Dashboards/accident_dashboard.png)
+![Accident Dashboard](accident_dashbords.png)
 
 Link: [View on Tableau Public](https://public.tableau.com/app/profile/foziya.bano/viz/accident_dashboard_17630578382620/Dashboard2)
 
@@ -33,7 +33,7 @@ Link: [View on Tableau Public](https://public.tableau.com/app/profile/foziya.ban
 ---
 
 ## 3️⃣ Superstore Dashboard 🛒
-![Superstore Dashboard](Tableau_Dashboards/superstore_dashboard.png)
+![Sales Dashboard](sales_dashbords.png)
 
 Link: [View on Tableau Public](https://public.tableau.com/app/profile/foziya.bano/viz/Superstoredashboar/Dashboard1)
 
